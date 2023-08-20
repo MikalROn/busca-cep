@@ -1,7 +1,18 @@
 # buscar-cep
 
+projeto simples para colocar em prática, auldas da faculdade
 
-- para rodar o projeto basta colar os seguintes comandos !
+# Dependencias
+
+para rodar usando os comandos abaixo vc ira precisar de : 
+
+- python
+- docker
+
+## Começo rápido
+
+>  para rodar o projeto basta colar os seguintes comandos !
+
 ```shell
 docker build -t php-main .
 docker run -p 80:80 php-main 
