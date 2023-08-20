@@ -1,6 +1,6 @@
 # buscar-cep
 
-projeto simples para colocar em prática, auldas da faculdade
+projeto simples para colocar em prática, aulas da faculdade
 
 # Dependencias
 
